@@ -117,7 +117,8 @@ h6 {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: rgba(255, 255, 255, 0.8);
+  //color: rgba(255, 255, 255, 0.8);
+  color: rgb(226, 108, 186)
 }
 
 #header h2 span {
